@@ -8,8 +8,9 @@ def maxPalindromeSubStringLen(str):
 			leng = leng + (str.count(str[0])) - 1
 			ext = 1
 		str = str.replace(str[0],"")
-	print leng + ext
-	
-T = int(raw_input())
-for i in xrange(0, T):
-	maxPalindromeSubStringLen(raw_input())
+	return leng + ext
+ 
+if __name__=="__main__":
+	print("Enter a string: ", end="")
+	paragraph = input()
+	print(maxPalindromeSubStringLen(paragraph))
