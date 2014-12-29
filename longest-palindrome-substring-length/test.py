@@ -1,4 +1,4 @@
-from program import isArmstrong
+from program import maxPalindromeSubStringLen
 
 # Valid conditions
 (maxPalindromeSubStringLen("hello") == 3)
