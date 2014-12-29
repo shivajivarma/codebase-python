@@ -2,7 +2,7 @@ language:
   - python
 # command to install dependencies
 script:
-  - python  anagram/test.py
+  - python  armstrong-number/test.py
 branches:
   only:
     - master
