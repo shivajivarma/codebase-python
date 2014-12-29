@@ -5,6 +5,7 @@ python:
 # command to install dependencies
 script:
   - python  armstrong-number/test.py
+  - python longest-palindrome-substring-length/test.py
 branches:
   only:
     - master
