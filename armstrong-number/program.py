@@ -7,7 +7,6 @@ def isArmstrong(num):
 		digit = temp % 10
 		sum = sum + ( digit * digit * digit )
 		temp = int(temp / 10)
-	
 
 	if(num == sum):
 		return True;  #Success
