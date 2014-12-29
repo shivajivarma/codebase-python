@@ -5,6 +5,8 @@ An Armstrong number is a number such that the sum of its digits raised to the th
 For example, 371 is an Armstrong number, since 3^3 + 7^3 + 1^3 = 371.  
 Another example, 153. 1^3 + 5^3 + 3^3 = 1 + 125 + 27 = 153.
 
+> Program to find whether the given number is an Armstrong number or not.
+
 ###CODE
 ```python
 def isArmstrong(num):
