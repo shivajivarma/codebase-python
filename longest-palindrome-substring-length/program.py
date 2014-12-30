@@ -13,4 +13,4 @@ def maxPalindromeSubStringLen(str):
 if __name__=="__main__":
 	print("Enter a string: ", end="")
 	paragraph = input()
-	print(maxPalindromeSubStringLen(paragraph))
+	print("Length of longest palidrome ::", maxPalindromeSubStringLen(paragraph))
