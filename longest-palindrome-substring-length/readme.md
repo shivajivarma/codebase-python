@@ -1,4 +1,4 @@
-Longest Palindrome Sub String Length
+[Longest Palindrome Sub String Length](http://shivajivarma.com/code-base/python-camp/2014/12/30/longest-palindrome-substring-length/)
 ===============
 
 > Program to compute length of longest sub string which is palindrome.
