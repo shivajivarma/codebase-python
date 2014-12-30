@@ -1,7 +1,7 @@
 Longest Palindrome Sub String Length
 ===============
 
-Program to compute length of longest sub string which is palidrome.
+> Program to compute length of longest sub string which is palindrome.
 
 ###CODE
 ```python
