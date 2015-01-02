@@ -7,6 +7,7 @@ script:
   - python armstrong-number/test.py
   - python longest-palindrome-substring-length/test.py
   - python one-by-2-power-n/test.py
+  - python reverse-a-string/test.py
 branches:
   only:
     - master
