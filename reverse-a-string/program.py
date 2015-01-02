@@ -13,5 +13,5 @@ def reverse(string):
 
 if __name__=="__main__":
     print("Enter a String: ",end="")
-    str = int(input())
-    print("Reverse of '",str, "' is", reverse(str))
+    str = input()
+    print("Reverse of '",str,"' is '",reverse(str),"'")
