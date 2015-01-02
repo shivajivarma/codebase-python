@@ -1,5 +1,5 @@
-from program import reserve
+from program import reverse
 
 # Valid conditions
-(reserve('Hello') == 'olleH')
-(reserve('Happy New Year.') == '.raeY weN yppaH')
+(reverse('Hello') == 'olleH')
+(reverse('Happy New Year.') == '.raeY weN yppaH')
