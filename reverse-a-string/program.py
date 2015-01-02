@@ -10,3 +10,8 @@ def reverse(string):
         result = result + string[letter-1]
     return result
 '''
+
+if __name__=="__main__":
+    print("Enter a String: ",end="")
+    str = int(input())
+    print("Reverse of '",str, "' is", reverse(str))
