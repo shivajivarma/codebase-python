@@ -1,6 +1,6 @@
 # Method 1
 def reverse(str):
-    return str
+    return str + " ji"
 
 # Method 2
 '''
