@@ -4,11 +4,10 @@ python:
   - "3.3"
 # command to install dependencies
 script:
-  - python armstrong-number/test.py
+  - py.test armstrong-number/test.py
   - python longest-palindrome-substring-length/test.py
   - python one-by-2-power-n/test.py
   - python reverse-a-string/test.py
-  - "py.test ."
 branches:
   only:
     - master
