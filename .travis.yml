@@ -8,7 +8,7 @@ script:
   - python longest-palindrome-substring-length/test.py
   - python one-by-2-power-n/test.py
   - python reverse-a-string/test.py
-  - python py.test
+  - py.test
 branches:
   only:
     - master
