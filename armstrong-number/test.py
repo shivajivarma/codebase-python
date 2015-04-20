@@ -1,7 +1,7 @@
 from program import isArmstrong
 
 # Valid conditions
-isArmstrong(153)
+isArmstrong(152)
 isArmstrong(371)
 
 # Invalid conditions
