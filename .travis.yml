@@ -5,9 +5,9 @@ python:
 # command to install dependencies
 script:
   - py.test armstrong-number/test.py
-  - python longest-palindrome-substring-length/test.py
-  - python one-by-2-power-n/test.py
-  - python reverse-a-string/test.py
+  - py.test longest-palindrome-substring-length/test.py
+  - py.test one-by-2-power-n/test.py
+  - py.test reverse-a-string/test.py
 branches:
   only:
     - master
