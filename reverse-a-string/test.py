@@ -1,5 +1,5 @@
 from program import reverse
 
-# Valid conditions
-(reverse('Hello') == 'olleH')
-(reverse('Happy New Year.') == '.raeY weN yppaH')
+def test_answer():
+  assert reverse('Hello') == 'olleH'
+  assert reverse('Happy New Year.') == '.raeY weN yppaH'
