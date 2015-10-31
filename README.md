@@ -1,7 +1,7 @@
 [Python Codebase](http://shivajivarma.com/code-base/python-camp)
 =============
 
-[![Build Status](https://travis-ci.org/shivajivarma/python-camp.svg?branch=master)](https://travis-ci.org/shivajivarma/python-camp)
+[![Build Status](https://travis-ci.org/shivajivarma/python.svg?branch=master)](https://travis-ci.org/shivajivarma/python)
 
 '__[Code Base](http://shivajivarma.com/code-base)__' is a repository of programs, you can analyze and hack the code to learn programming. Algorithms playground for common questions solved in multiple languages. '__Python Codebase__' is a branch of 'Code Base' project, holds all Python programs.
 
