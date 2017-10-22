@@ -3,7 +3,7 @@
 
 > Program to compute length of longest sub string which is palindrome.
 
-###CODE
+### CODE
 ```python
 def maxPalindromeSubStringLen(str):
 	leng = 0
