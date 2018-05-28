@@ -8,10 +8,7 @@ def isArmstrong(num):
 		sum = sum + ( digit * digit * digit )
 		temp = int(temp / 10)
 
-	if(num == sum):
-		return True; #Success
-
-	return False; #Failure
+	return (num == sum)
  
 if __name__=="__main__":
 	print("Enter number: ", end="")
