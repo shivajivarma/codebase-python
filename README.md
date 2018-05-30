@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.org/shivajivarma/python.svg?branch=master)](https://travis-ci.org/shivajivarma/python)
+[![Build Status](https://travis-ci.org/shivajivarma/codebase-python.svg?branch=master)](https://travis-ci.org/shivajivarma/codebase-python)
 
 Code Base
 ===========
